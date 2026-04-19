@@ -1,0 +1,74 @@
+filename,url,capa,descripcion,estado,size_bytes
+01_RGPD_Reglamento_UE_2016_679.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32016R0679,1,RGPD — Reglamento General de Protección de Datos,OK,1024768
+02_AI_Act_Reglamento_UE_2024_1689.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32024R1689,1,AI Act — Reglamento Europeo de Inteligencia Artificial,OK,2679733
+03_NIS2_Directiva_UE_2022_2555.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022L2555,1,NIS2 — Ciberseguridad redes y sistemas,OK,1382029
+04_Cybersecurity_Act_Reglamento_UE_2019_881.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019R0881,1,Cybersecurity Act,OK,908443
+05_Cyber_Resilience_Act_Reglamento_UE_2024_2847.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32024R2847,1,Cyber Resilience Act,OK,1829615
+06_Directiva_UE_2016_680_datos_penal.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32016L0680,1,Directiva protección datos ámbito penal,OK,719722
+07_Reglamento_UE_2018_1725_datos_instituciones.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32018R1725,1,Protección datos instituciones UE,OK,1645404
+08_Data_Governance_Act_Reglamento_UE_2022_868.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R0868,1,Data Governance Act,OK,1062727
+09_Data_Act_Reglamento_UE_2023_2854.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32023R2854,1,Data Act,OK,1463578
+10_Open_Data_Directiva_UE_2019_1024.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019L1024,1,Directiva datos abiertos,OK,563431
+11_DSA_Reglamento_UE_2022_2065.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R2065,1,Digital Services Act,OK,1743243
+12_DMA_Reglamento_UE_2022_1925.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R1925,1,Digital Markets Act,OK,1165058
+13_ePrivacy_Directiva_2002_58_CE.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32002L0058,1,Directiva ePrivacy,OK,176967
+14_eIDAS_Reglamento_UE_910_2014.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32014R0910,1,Reglamento eIDAS,OK,1060920
+15_MiCA_Reglamento_UE_2023_1114.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32023R1114,1,MiCA — Mercados criptoactivos,OK,1703675
+16_DORA_Reglamento_UE_2022_2554.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R2554,1,DORA — Resiliencia operativa digital,OK,1566969
+17_Copyright_Directiva_UE_2019_790.pdf,https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019L0790,1,Directiva derechos de autor mercado digital,OK,756531
+18_LOPDGDD_LO_3_2018.pdf,https://www.boe.es/buscar/pdf/2018/BOE-A-2018-16673-consolidado.pdf,1,LOPDGDD — LO 3/2018,OK,542851
+19_Ley_2_2023_canal_denuncias.pdf,https://www.boe.es/buscar/pdf/2023/BOE-A-2023-4513-consolidado.pdf,1,Ley 2/2023 — Canal de denuncias,OK,382782
+20_ENS_RD_311_2022.pdf,https://www.boe.es/buscar/pdf/2022/BOE-A-2022-7191-consolidado.pdf,1,ENS — Esquema Nacional de Seguridad,OK,636205
+21_LSSI_CE_Ley_34_2002.pdf,https://www.boe.es/buscar/pdf/2002/BOE-A-2002-13758-consolidado.pdf,1,LSSI-CE,OK,347950
+22_LO_7_2021_datos_penal.pdf,https://www.boe.es/buscar/pdf/2021/BOE-A-2021-8806-consolidado.pdf,1,LO 7/2021 — Protección datos ámbito penal,OK,421809
+23_Codigo_BOE_Proteccion_Datos.pdf,https://www.boe.es/biblioteca_juridica/abrir_pdf.php?fich=055_Proteccion_de_Datos_de_Caracter_Personal.pdf,1,Código BOE — Compilación Protección de Datos,OK,12079
+24_AEPD_guia_deber_informar.pdf,https://www.aepd.es/guias/guia-modelo-clausula-informativa.pdf,2,AEPD — Deber de informar,OK,1701189
+25_AEPD_guia_responsables_tratamiento.pdf,https://www.aepd.es/guias/guia-rgpd-para-responsables-de-tratamiento.pdf,2,AEPD — Guía responsables de tratamiento,OK,8191882
+26_AEPD_guia_contratos_responsable_encargado.pdf,https://www.aepd.es/guias/guia-directrices-contratos.pdf,2,AEPD — Contratos responsable/encargado,OK,995284
+27_AEPD_guia_analisis_riesgos.pdf,https://www.aepd.es/guias/guia-analisis-de-riesgos-rgpd.pdf,2,AEPD — Análisis de riesgos RGPD,OK,7090668
+28_AEPD_guia_EIPD.pdf,https://www.aepd.es/guias/guia-evaluaciones-de-impacto-rgpd.pdf,2,AEPD — Evaluaciones de impacto RGPD,FAIL,0
+29_AEPD_guia_proteccion_datos_por_defecto.pdf,https://www.aepd.es/guias/guia-proteccion-datos-por-defecto.pdf,2,AEPD — Protección datos por defecto,OK,983311
+30_AEPD_guia_cookies.pdf,https://www.aepd.es/guias/guia-cookies.pdf,2,AEPD — Uso de cookies,OK,1285192
+31_AEPD_guia_brechas_seguridad.pdf,https://www.aepd.es/guias/guia-brechas-seguridad.pdf,2,AEPD — Brechas de seguridad,OK,993884
+32_AEPD_guia_DPO.pdf,https://www.aepd.es/documento/el-manual-del-dpd-korffgeorges-esp.pdf,2,AEPD — Manual del DPD (Korff & Georges),OK,2749381
+33_AEPD_guia_interes_legitimo.pdf,https://www.aepd.es/documento/informe-juridico-rgpd-interes-legitimo.pdf,2,Interés legítimo — Informe AEPD / Guía ISMS Forum,OK,230141
+34_AEPD_guia_relaciones_laborales.pdf,https://www.zaragoza.es/contenidos/proteccion-datos/PD-RELACIONES-LABORALES.pdf,2,AEPD — Protección datos relaciones laborales,OK,1553548
+35_AEPD_guia_videovigilancia.pdf,https://www.aepd.es/guias/guia-videovigilancia.pdf,2,AEPD — Videovigilancia,OK,8792045
+36_AEPD_guia_privacidad_seguridad_internet.pdf,https://www.aepd.es/guias/guia-privacidad-y-seguridad-en-internet.pdf,2,AEPD — Privacidad y seguridad en Internet,OK,8074523
+37_AEPD_guia_ciudadano.pdf,https://www.aepd.es/guias/guia-ciudadano.pdf,2,AEPD — Guía para el ciudadano,OK,5088080
+38_AEPD_adecuacion_RGPD_IA.pdf,https://www.aepd.es/guias/adecuacion-rgpd-ia.pdf,2,AEPD — Adecuación RGPD a tratamientos con IA,OK,1697343
+39_AEPD_requisitos_auditorias_IA.pdf,https://www.aepd.es/guias/requisitos-auditorias-tratamientos-incluyan-ia.pdf,2,AEPD — Requisitos auditorías IA,OK,1604526
+40_AEPD_guia_hash_pseudonimizacion.pdf,https://www.aepd.es/guias/estudio-hash-anonimidad.pdf,2,AEPD — Estudio hash y anonimidad,OK,1446198
+41_AEPD_guia_k_anonimidad.pdf,https://www.aepd.es/guias/nota-tecnica-kanonimidad.pdf,2,AEPD — Nota técnica k-anonimidad,OK,320794
+42_AEPD_estrategia_menores.pdf,https://www.aepd.es/guias/estrategia-menores-aepd-lineas-accion.pdf,2,"AEPD — Estrategia menores, salud digital y privacidad",OK,1969739
+43_AEPD_lista_EIPD_obligatoria.pdf,https://www.aepd.es/documento/listas-dpia-es-35-4.pdf,2,AEPD — Listado tratamientos que requieren EIPD,OK,77000
+44_AEPD_lista_EIPD_no_obligatoria.pdf,https://www.aepd.es/media/guias/ListasDPIA-35.5l.pdf,2,AEPD — Listado tratamientos que NO requieren EIPD,OK,124351
+45_AEPD_gestion_riesgo_EIPD_2021.pdf,https://www.aepd.es/guias/gestion-riesgo-y-evaluacion-impacto-en-tratamientos-datos-personales.pdf,2,AEPD — Gestión riesgo y EIPD (guía unificada 2021),OK,4638477
+46_EDPB_directrices_DPO_wp243.pdf,https://www.aepd.es/documento/wp243rev01-es.pdf,2,"EDPB — Directrices DPO (WP243, ES vía AEPD)",OK,800800
+47_EDPB_directrices_consentimiento.pdf,https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_consent_en.pdf,2,EDPB — Directrices consentimiento,OK,329009
+48_EDPB_directrices_transparencia_wp260.pdf,https://ec.europa.eu/newsroom/article29/items/622227/en,2,EDPB — Directrices transparencia (WP260),OK,29338
+49_EDPB_directrices_portabilidad_wp242.pdf,https://ec.europa.eu/newsroom/article29/items/611233/en,2,EDPB — Directrices portabilidad (WP242),OK,27119
+50_EDPB_directrices_EIPD_wp248.pdf,https://ec.europa.eu/newsroom/article29/items/611236/en,2,EDPB — Directrices EIPD (WP248),OK,27113
+51_EDPB_directrices_brechas.pdf,https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202209_personal_data_breach_notification_v2.0_en.pdf,2,EDPB — Directrices brechas (9/2022),OK,659229
+52_EDPB_directrices_derecho_acceso.pdf,https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf,2,EDPB — Directrices derecho de acceso (1/2022),OK,1442371
+53_EDPB_directrices_dark_patterns.pdf,https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en.pdf,2,EDPB — Directrices dark patterns (3/2022),OK,2095037
+54_CE_AI_Act_guidelines_prohibited_practices.pdf,https://ec.europa.eu/newsroom/dae/redirection/document/110853,2,CE — Guidelines prohibited AI practices,FAIL,0
+55_CE_AI_Act_guidelines_definition_AI_system.pdf,https://ec.europa.eu/newsroom/dae/redirection/document/110854,2,CE — Guidelines definition AI system,FAIL,0
+56_HLEG_Ethics_Guidelines_Trustworthy_AI.pdf,https://ec.europa.eu/newsroom/dae/redirection/document/60419,2,HLEG — Ethics Guidelines Trustworthy AI,OK,1632682
+57_HLEG_ALTAI_Assessment_List.pdf,https://ec.europa.eu/newsroom/dae/redirection/document/68342,2,HLEG — ALTAI Assessment List,OK,545364
+67_AEPD_IA_agentica_proteccion_datos.pdf,https://www.aepd.es/guias/orientaciones-ia-agentica.pdf,2,AEPD — IA agéntica y protección de datos (2025),OK,2276116
+68_AEPD_guia_anonimizacion.pdf,https://www.aepd.es/documento/guia-basica-anonimizacion.pdf,2,AEPD — Guía básica anonimización,OK,960748
+69_AEPD_10_malentendidos_anonimizacion.pdf,https://www.aepd.es/documento/10-malentendidos-anonimizacion.pdf,2,AEPD — 10 malentendidos anonimización,OK,2007731
+70_AEPD_esquema_certificacion_DPD.pdf,https://www.aepd.es/documento/esquema-aepd-dpd.pdf,2,AEPD — Esquema certificación DPD,OK,651886
+71_AEPD_tecnologias_admin_digital.pdf,https://www.aepd.es/documento/guia-tecnologias-admin-digital.pdf,2,AEPD — Tecnologías y protección datos en AAPP,OK,1759893
+72_AEPD_hoja_ruta_conformidad.pdf,https://www.aepd.es/es/documento/hoja-de-ruta.pdf,2,AEPD — Hoja de ruta cumplimiento (2022),OK,345617
+73_APDCAT_guia_EIPD.pdf,https://apdcat.gencat.cat/web/.content/04-actualitat/menors-i-joves/GUIA-AVALUACIO-IMPACTE-CAST-2.0.pdf,2,APDCAT — Guía EIPD (Cataluña),OK,182857
+58_NIST_AI_RMF_100.pdf,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf,3,NIST AI Risk Management Framework,OK,1946127
+59_NIST_Cybersecurity_Framework_2.pdf,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf,3,NIST Cybersecurity Framework 2.0,OK,1518858
+60_OECD_AI_Principles.pdf,https://legalinstruments.oecd.org/api/print?ids=648&lang=en,3,OECD — AI Principles,OK,678370
+62_WEF_Future_AI_Enabled_Health_2025.pdf,https://www3.weforum.org/docs/WEF_The_Future_of_AI_Enabled_Health_2025.pdf,3,WEF — Future of AI-Enabled Health 2025,OK,2761338
+61_UNESCO_AI_Ethics_Recommendation.pdf,https://unesdoc.unesco.org/ark:/48223/pf0000381137,3,UNESCO — Recommendation on Ethics of AI,MANUAL,0
+74_NEXORA_Protocolo_Cumplimiento_v3.2.pdf,local:01_NEXORA_Protocolo_Cumplimiento_Normativo_v3.2.pdf,4,NEXORA — Protocolo Cumplimiento Normativo v3.2,NOT_FOUND,0
+75_NEXORA_AI_Act_Resumen.pdf,local:02_AI_Act_Resumen_Ejecutivo.pdf,4,NEXORA — Resumen ejecutivo AI Act,NOT_FOUND,0
+76_NEXORA_RGPD_Derechos.pdf,local:03_RGPD_Derechos_Interesado_Extracto.pdf,4,NEXORA — RGPD Derechos del Interesado,NOT_FOUND,0
+77_NEXORA_Politica_Proveedores.pdf,local:04_NEXORA_Politica_Proveedores_Subcontratacion.pdf,4,NEXORA — Política Proveedores v2.1,NOT_FOUND,0
