@@ -1,0 +1,9 @@
+# ChromaDB local (regenerar con: python indexar_corpus.py)
+chroma_db/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/

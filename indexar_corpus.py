@@ -79,6 +79,43 @@ COLLECTIONS = {
     "ollama": "nexora_legal_ollama",
 }
 
+# Chroma Cloud (Starter / free tier) limita metadatos por registro (p. ej. 32
+# claves en Upsert). PyPDFLoader añade decenas de claves del PDF; hay que
+# quedarse solo con las que usa el RAG / Flowise.
+CLOUD_METADATA_KEYS = frozenset({
+    "source_file",
+    "page",
+    "chunk_index",
+    "chunk_id",
+    "source",
+    "id",
+    "titulo",
+    "capa",
+    "categoria",
+    "fuente",
+})
+
+
+def _chromadb_scalar_metadata(v):
+    if v is None:
+        return None
+    if isinstance(v, (str, int, float, bool)):
+        return v
+    return str(v)
+
+
+def filtrar_metadatos_cloud(docs: List[Document]) -> None:
+    """In-place: solo claves permitidas para no superar la cuota de Chroma Cloud."""
+    for d in docs:
+        new_md = {}
+        for k in CLOUD_METADATA_KEYS:
+            if k not in d.metadata:
+                continue
+            val = _chromadb_scalar_metadata(d.metadata[k])
+            if val is not None and val != "":
+                new_md[k] = val
+        d.metadata = new_md
+
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CARGA Y TROCEADO (secuencial, compartido entre proveedores)
@@ -310,6 +347,12 @@ def main():
     )
     print(f"\n {len(docs)} chunks generados "
           f"(chunk_size={args.chunk_size}, overlap={args.chunk_overlap})")
+
+    if args.mode == "cloud":
+        filtrar_metadatos_cloud(docs)
+        nkeys = max((len(d.metadata) for d in docs), default=0)
+        print(f"\n Modo cloud: metadatos recortados a <= {nkeys} claves "
+              f"(max {len(CLOUD_METADATA_KEYS)} definidas; cuota Chroma Cloud).")
 
     client, backend_desc = build_chroma_client(args)
     print(f"\n Backend ChromaDB: {backend_desc}")
